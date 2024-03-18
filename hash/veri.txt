@@ -1,0 +1,8 @@
+34	Alii	Ahmet	kargoda 
+12	Ayse	Fatma	yolda
+22	Yilmaz	Asli	yolda
+50	Tuna	Mete	kargoda
+14	Merve	Hasan	yolda
+32	Ozan	Ali	Kargoda
+10	Yusuf	Adem	kargoda
+	
